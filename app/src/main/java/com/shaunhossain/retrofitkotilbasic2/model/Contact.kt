@@ -1,4 +1,6 @@
-package com.shaunhossain.retrofitkotilbasic2
+package com.shaunhossain.retrofitkotilbasic2.model
+
+import com.shaunhossain.retrofitkotilbasic2.model.PhoneX
 
 data class Contact(
     val address: String,

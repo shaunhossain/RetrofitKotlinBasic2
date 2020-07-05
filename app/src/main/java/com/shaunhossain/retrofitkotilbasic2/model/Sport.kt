@@ -1,4 +1,4 @@
-package com.shaunhossain.retrofitkotilbasic2
+package com.shaunhossain.retrofitkotilbasic2.model
 
 data class Sport(
     val idSport: String,
